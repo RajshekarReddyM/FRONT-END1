@@ -1,7 +1,11 @@
 
-h1{
+h1 {
+  color: blue;
+  font-size: 90px;
   margin-top: 0;
+  font-family: 'Sacramento', cursive;
 }
+
 body{
   margin: 0;
   text-align: center;
@@ -15,18 +19,18 @@ body{
     border: solid 10px;*/
 }
 .middle-container{
-    background-color: Red;
+  /*background-color: Red;
     width: 200px;
     height: 200px;
-  /*  margin-left: 260px;
+    margin-left: 260px;
     margin-top: -00px;
     border: solid 20px;*/
 }
 .bottom-container{
-    background-color: Blue;
+      /* background-color: Blue;
     width: 200px;
     height: 200px;
-  /*  border: solid 10px;
+    border: solid 10px;
     margin-left: 500px;*/
 }
 .web{
